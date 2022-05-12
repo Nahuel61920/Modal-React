@@ -1,7 +1,6 @@
 # Modal
 
-## Developed in React and using Styled components librarie
-
+## Developed in React
 Modal for web pages or applications
 
 - **Preview**
